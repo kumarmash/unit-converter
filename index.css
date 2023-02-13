@@ -71,6 +71,7 @@ h1 {
   margin: auto;
   text-align: center;
   margin: 0;
+  min-width: 250px;
 }
 h2 {
   color: #ccc1ff;
